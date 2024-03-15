@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color:rgb(189, 144, 86) ;
+}
+h1{
+    background-color: rgb(159, 78, 21);
+}
+.p1{
+    color: rgb(159, 78, 21);
+}
